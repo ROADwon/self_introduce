@@ -1,1 +1,1 @@
-# self_introduce
+# 자기소개서 작성 프로그램
